@@ -1,0 +1,25 @@
+h2#header-style {
+  font-family: "Righteous", cursive;
+  margin-bottom: 2rem;
+}
+
+.my-5 {
+  text-align: center;
+}
+
+.post-style {
+  font-family: "Righteous", cursive;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+/* section {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border: 5px solid black;
+  border-radius: 50%;
+  width:fit-content
+} */
